@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I'm passioned and greedy to knowledge software developer. I like trying new things and constanly develope my skills.
+I'm passioned and greedy to knowledge software developer. I like trying new things and constanly develop my skills.
+
 Currently I'm working on my own small IT services and consultancy company named Abstract-Factory.
-My second profile is: 
+My second profile is: https://github.com/vadym-abstract-factory
 
 Need software development services? <sub>Better call Saul</sub> Better call me:
 vadym@abstract-factory.xyz
