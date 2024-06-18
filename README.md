@@ -4,28 +4,12 @@ I'm passioned and greedy to knowledge software developer. I like trying new thin
 
 Currently I'm working on my own IT services and consultancy company named Abstract-Factory: https://abstract-factory.xyz/.
 
-**We are specialized in:**
+**We can help you [with](https://abstract-factory.xyz/how-we-work/):**
 
-✅ Developing custom web apps with C#.NET and JS/TS including related techs.
-
-✅ Containerization, Kubernetes and high-load microservices.
-
-✅ Tracing and metrics with techs as Datadog.
-
-✅ Cloud Migration, AWS, Azure, GCP.
-
-✅ Back-end integration with third-party APIs.
-
-✅ AI integration via OpenAI API or similar technologies.
-
-
-**Industries:**
-
-📍Hospitality and Tourism.
-
-📍Healthcare and Telemedicine (HIPAA and ISO 13485 compliance)
-
-My second profile is: https://github.com/vadym-abstract-factory
+✅ Full cycle custom web apps development mainly via C#.NET, JavaScript/TypeScript.\
+✅ GenAI integration via OpenAI API, Hugging Face and similar technologies.\
+✅ Cloud Migration: AWS, Azure, GCP.\
+✅ Containerization: microservices, Kubernetes, Helm.
 
 Need software development services? <sub>Better call Saul</sub> Better email me:
 vadym@abstract-factory.xyz
